@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stone_texture.jpg</file>
+        <file>gimbal_wood.jpg</file>
+        <file>skybox_images/back.jpg</file>
+        <file>skybox_images/bottom.jpg</file>
+        <file>skybox_images/front.jpg</file>
+        <file>skybox_images/left.jpg</file>
+        <file>skybox_images/right.jpg</file>
+        <file>skybox_images/top.jpg</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>modelloader.h</file>
+        <file>myglwidget.cpp</file>
+        <file>myglwidget.h</file>
+        <file>myskybox.h</file>
+        <file>skybox_images/back2.tga</file>
+        <file>skybox_images/bottom2.tga</file>
+        <file>skybox_images/front2.tga</file>
+        <file>skybox_images/left2.tga</file>
+        <file>skybox_images/right2.tga</file>
+        <file>skybox_images/top2.tga</file>
+        <file>skybox_images/back2.jpg</file>
+        <file>skybox_images/bottom2.jpg</file>
+        <file>skybox_images/front2.jpg</file>
+        <file>skybox_images/left2.jpg</file>
+        <file>skybox_images/right2.jpg</file>
+        <file>skybox_images/top2.jpg</file>
+        <file>glas_texture.jpg</file>
+        <file>metal_texture.jpg</file>
+    </qresource>
+</RCC>

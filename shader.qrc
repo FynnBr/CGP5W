@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default.frag</file>
+        <file>default.vert</file>
+        <file>depth.frag</file>
+        <file>skybox.frag</file>
+        <file>skybox.vert</file>
+        <file>light.vert</file>
+        <file>light.frag</file>
+        <file>depth.vert</file>
+        <file>compute.glsl</file>
+    </qresource>
+</RCC>

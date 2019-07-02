@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gimbal.obj</file>
+        <file>sphere.obj</file>
+        <file>mask.obj</file>
+        <file>dice.obj</file>
+        <file>lego.obj</file>
+        <file>fence.obj</file>
+        <file>gimbal_new.obj</file>
+    </qresource>
+</RCC>
